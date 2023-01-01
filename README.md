@@ -2,6 +2,9 @@
 
 This is a container wrapping OpenAI's CLIP model in a RESTful interface.
 
+*PoC for using Multilingual CLIP*
+https://huggingface.co/M-CLIP/XLM-Roberta-Large-Vit-B-16Plus
+
 ### Running the container locally
 
 First, build the container:
