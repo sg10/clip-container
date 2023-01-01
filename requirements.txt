@@ -1,7 +1,8 @@
-git+https://github.com/openai/CLIP.git
+multilingual-clip
+open_clip_torch
 contextlib2
 opencv-python
 flask
-gevent
 gunicorn
 requests
+gevent
